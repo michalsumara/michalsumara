@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I'm currently working on AI solutions for transportation
+- 🌱 I’m currently learning ML
+
 <!--
 **michalsumara/michalsumara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
